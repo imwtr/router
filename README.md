@@ -3,6 +3,8 @@
 # 使用
 ```javascript
   
+  // 引入 router.js
+  
   // 当前页面路径
   var pageR = 'abc/d';
   
